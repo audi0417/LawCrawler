@@ -161,5 +161,3 @@ def main():
    
    logging.info(f"Completed! Successfully processed {processed_count} out of {len(law_urls)} laws")
 
-if __name__ == "__main__":
-   main()
