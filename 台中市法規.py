@@ -187,6 +187,3 @@ def main():
                         filename = f"{law_data['LawName']}.json"
                         save_json(law_data, filename)
                     pbar.update(1)
-
-if __name__ == "__main__":
-    main()
