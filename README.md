@@ -17,6 +17,8 @@
 |------|------|------|
 | 中央法規 | https://law.moj.gov.tw/ | ✅ 支援 |
 | 台北市法規 | https://www.laws.taipei.gov.tw/ | ✅ 支援 |
+| 新北市法規 | [https://www.laws.taipei.gov.tw/](https://web.law.ntpc.gov.tw/) | ✅ 支援 |
+| 桃園市法規 | [https://law.tycg.gov.tw/](https://law.tycg.gov.tw/)| ✅ 支援 |
 | 台中市法規 | https://law.taichung.gov.tw/ | ✅ 支援 |
 
 ## 安裝
