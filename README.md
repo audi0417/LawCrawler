@@ -20,7 +20,15 @@
 | 新北市法規 | https://web.law.ntpc.gov.tw/ | ✅ 支援 |
 | 桃園市法規 | https://law.tycg.gov.tw/ | ✅ 支援 |
 | 台中市法規 | https://law.taichung.gov.tw/ | ✅ 支援 |
-
+|台南市法規|https://law.tainan.gov.tw/|❌不支援|
+|高雄市法規|https://law.kcg.gov.tw/|❌不支援|
+|基隆市法規|https://law.klcg.gov.tw/|❌不支援|
+|新竹市法規|https://law.hccg.gov.tw/|❌不支援|
+|苗栗縣法規|https://law.miaoli.gov.tw/|❌不支援|
+|彰化縣法規|https://law.changhua.gov.tw/|❌不支援|
+|南投縣法規|https://law.nantou.gov.tw/|❌不支援|
+|雲林縣法規|https://law.yunlin.gov.tw/|❌不支援|
+|嘉義市法規|https://law.chiayi.gov.tw/|❌不支援|
 ## 安裝
 
 ### 前置需求
