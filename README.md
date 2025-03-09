@@ -27,7 +27,7 @@
 |苗栗縣法規|https://law.miaoli.gov.tw/glrsnewsout/index.aspx|❌不支援|
 |彰化縣法規|https://lawsearch.chcg.gov.tw/GLRSNEWSOUT/|❌不支援|
 |南投縣法規|https://glrs.nantou.gov.tw/glrsout/index.aspx|❌不支援|
-|雲林縣法規||❌不支援|
+|雲林縣法規|https://law.yunlin.gov.tw/|❌不支援|
 |嘉義市法規|https://law.chiayi.gov.tw/|❌不支援|
 ## 安裝
 
