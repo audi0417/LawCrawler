@@ -21,7 +21,7 @@
 | 桃園市法規 | https://law.tycg.gov.tw/ | ✅ 支援 |
 | 台中市法規 | https://law.taichung.gov.tw/ | ✅ 支援 |
 |台南市法規|https://law01.tainan.gov.tw/glrsnewsout/|❌不支援|
-|高雄市法規|https://outlaw.kcg.gov.tw/LawQuery.aspx|❌不支援|
+|高雄市法規|https://outlaw.kcg.gov.tw/LawQuery.aspx| ✅ 支援 |
 |基隆市法規|https://exlaw.klcg.gov.tw/index.aspx|❌不支援|
 |新竹市法規|https://law.hccg.gov.tw/|❌不支援|
 |苗栗縣法規|https://law.miaoli.gov.tw/glrsnewsout/index.aspx|❌不支援|
